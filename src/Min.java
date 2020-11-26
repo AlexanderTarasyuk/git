@@ -10,5 +10,6 @@ public class Min {
 
 
         System.out.println("helo");
+        System.out.println("helo");
     }
 }

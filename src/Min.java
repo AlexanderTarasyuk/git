@@ -8,5 +8,7 @@ public class Min {
         ClassLoader classLoader= Min.class.getClassLoader();
         File file =new File(classLoader.getResource("file.txt").getFile());
 
+
+        System.out.println("helo");
     }
 }

@@ -14,14 +14,6 @@ public class Min {
         System.out.println("helo");
         System.out.println("helo");
         System.out.println("helo");
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
-//        IntStream.of(1, 2, 3, 4, 1, 2, 3, 6).collect(Collectors.groupingBy(value -> Integer.valueOf((Integer) value), Collectors.counting()))
+
     }
 }

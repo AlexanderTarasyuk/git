@@ -14,6 +14,8 @@ public class Min {
         System.out.println("helo");
         System.out.println("helo");
         System.out.println("helo");
+        System.out.println("helo2");
+        System.out.println("helo2");
 
     }
 }
